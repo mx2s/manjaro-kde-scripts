@@ -1,6 +1,8 @@
 # manjaro-kde-setups
 
-https://wiki.archlinux.org/index.php/Dell_Inspiron_15_(7590)
+Related arch wiki: https://wiki.archlinux.org/index.php/Dell_Inspiron_15_(7590)
+
+All notes related to Dell G3 3590 (G315-6769) laptop, keep that in mind
 
 Disable beep sound
 ```
