@@ -6,3 +6,8 @@ Disable beep sound
 ```
 sudo echo "blacklist pcspkr" > /etc/modprobe.d/nobeep.conf
 ```
+
+Wired / WIFI connection not working
+```
+modprobe r8169
+```
