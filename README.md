@@ -13,3 +13,6 @@ Wired / WIFI connection not working
 ```
 modprobe r8169
 ```
+
+If external monitors does not work properly: https://github.com/dglt1/optimus-switch-sddm
+- after set up switch it to Nvidia GPU
